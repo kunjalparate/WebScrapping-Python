@@ -1,3 +1,21 @@
+## WebScrapping-Python
+A Python project focused on web scraping techniques to extract and process data from websites efficiently. This repository contains scripts and examples demonstrating how to collect, parse, and store web data using popular Python libraries.
+
+Features
+- Scrape dynamic and static web pages
+- Use of libraries like requests, BeautifulSoup, and Selenium
+- Handle pagination and multiple web pages
+- Export scraped data to CSV or JSON formats
+- Simple, reusable, and well-commented code
+
+**Requirements**
+Python 3.x
+requests
+beautifulsoup4
+selenium (if scraping dynamic content)
+WebDriver for Selenium (e.g., ChromeDriver)
+
+
 # JobScrapping
 Had written these scripts last year to find the most recently posted jobs within the last one or two days - as some job postings would be taken down if the number of applications reached the required count. 
 
